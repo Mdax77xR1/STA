@@ -36,7 +36,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     xR1Server' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setStatus("online")
+client.user.setStatus("dnd")
  
 });
 
